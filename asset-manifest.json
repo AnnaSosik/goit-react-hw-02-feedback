@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.5b747357.css",
-    "main.js": "/react-homework-template/static/js/main.74925f20.js",
-    "static/media/polar-lights-5858656_1280.jpg": "/react-homework-template/static/media/polar-lights-5858656_1280.ec1a6d070e7576ab66da.jpg",
-    "index.html": "/react-homework-template/index.html",
-    "main.5b747357.css.map": "/react-homework-template/static/css/main.5b747357.css.map",
-    "main.74925f20.js.map": "/react-homework-template/static/js/main.74925f20.js.map"
+    "main.css": "/AnnaSosik/goit-react-hw-02-feedback/static/css/main.707f97a2.css",
+    "main.js": "/AnnaSosik/goit-react-hw-02-feedback/static/js/main.b991f661.js",
+    "static/media/polar-lights-5858656_1280.jpg": "/AnnaSosik/goit-react-hw-02-feedback/static/media/polar-lights-5858656_1280.ec1a6d070e7576ab66da.jpg",
+    "index.html": "/AnnaSosik/goit-react-hw-02-feedback/index.html",
+    "main.707f97a2.css.map": "/AnnaSosik/goit-react-hw-02-feedback/static/css/main.707f97a2.css.map",
+    "main.b991f661.js.map": "/AnnaSosik/goit-react-hw-02-feedback/static/js/main.b991f661.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b747357.css",
-    "static/js/main.74925f20.js"
+    "static/css/main.707f97a2.css",
+    "static/js/main.b991f661.js"
   ]
 }
